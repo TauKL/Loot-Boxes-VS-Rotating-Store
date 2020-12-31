@@ -1,0 +1,2 @@
+stockNumber=0;
+scr_updateRotatingStoreWallpaper()

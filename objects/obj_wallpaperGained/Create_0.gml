@@ -1,0 +1,11 @@
+growing=true; //whether this object is still growing
+middleX=256; //the target x when previewing
+middleY=428; //the target y when previewing
+scaleSpeed=0; //over how many steps to scale the wallpaper and text
+basePositionX=0 //original x position
+basePositionX=0 //original y position
+text=0; //quality text
+textMidX=322 //quality text x position
+textMidY=85 //quality text x position
+textGrowingamount=0; //how much to grow/shrink the quality text by every step
+quality=0; //quality of this wallpaper
